@@ -1,9 +1,3 @@
-# Research Topic
- **Whole Genome Sequence**
-- Oxford Nanopore Technologies
-- RNA-seq
-- Hi-C  
-
 # Languages
 [![My Skills](https://skillicons.dev/icons?i=python,r)](https://skillicons.dev)
 <!---
