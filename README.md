@@ -4,7 +4,5 @@
 [![My Skills](https://skillicons.dev/icons?i=flask,sklearn,opencv)](https://skillicons.dev)
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=anaconda,docker,mysql,sqlite)](https://skillicons.dev)
-<!---
-yukiito0914/yukiito0914 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Publication
+Ito, Y., Sanno, R., Ashikari, S. *et al.* Chromosome-scale whole genome assembly and annotation of the Jamaican field cricket *Gryllus assimilis. Sci Data* **12**, 826 (2025). https://doi.org/10.1038/s41597-025-05197-0
