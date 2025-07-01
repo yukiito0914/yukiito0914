@@ -1,7 +1,7 @@
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=python,r,bash,html,css)](https://skillicons.dev)
 ## Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=flask,sklearn,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,flask,sklearn,opencv)](https://skillicons.dev)
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=anaconda,docker,mysql,sqlite)](https://skillicons.dev)
 ## Publication
